@@ -8,3 +8,6 @@ edition = "2021"
 [dependencies]
 opencv = "*"
 anyhow = "*"
+arrsac = "*"
+sample-consensus = "*"
+itertools = "0.10.3"
